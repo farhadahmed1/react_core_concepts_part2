@@ -1,0 +1,14 @@
+.country {
+  border: 2px solid rgba(79, 243, 243, 0.711);
+  margin: 15px;
+  padding: 15px;
+  border-radius: 15px;
+}
+.country-flag {
+}
+.visited-color {
+  background-color: #fff0fb;
+}
+.non-visited {
+  background-color: rgba(245, 245, 245, 0.932);
+}
